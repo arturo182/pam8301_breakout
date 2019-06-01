@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Amplifier_Audio_Extra)(type Legacy)(uri ${KIPRJMOD}/library/Amplifier_Audio_Extra.lib)(options "")(descr ""))
+)
